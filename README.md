@@ -34,7 +34,7 @@ R-Project
 │
 ├── DSmiss.R          # Missing data handling
 ├── EDA.R             # Exploratory Data Analysis
-├── Decision tree.R   # Decision Tree Model
+├── decision_tree.R   # Decision Tree Model
 ├── FINAL PPT.pptx    # Project Presentation
 └── README.md
 ```
