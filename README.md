@@ -55,7 +55,8 @@ Open scripts in **RStudio** and execute:
 
 ```
 source("EDA.R")
-source("Decision tree.R")
+source("decision_tree.R")
+source("DSmiss.R")
 ```
 
 ---
